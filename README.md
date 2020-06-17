@@ -47,7 +47,8 @@ https://dash.cloudflare.com
 
 //workers反代代码为
 
-`addEventListener(
+
+addEventListener(
 
   "fetch",event => {
 
@@ -65,8 +66,10 @@ https://dash.cloudflare.com
 
        }
 
-        )`
+        )
 //下载v2使用，如果没有配置id，默认为
 
 '8c35bef3-d51f-41ab-ac87-7b053410495b'
+
 //结束
+

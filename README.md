@@ -45,8 +45,9 @@ applications:
 //注册并配置反代
 https://dash.cloudflare.com
 
-//workers反代代码
-addEventListener(
+//workers反代代码为
+
+`addEventListener(
 
   "fetch",event => {
 
@@ -64,6 +65,8 @@ addEventListener(
 
        }
 
-        )
+        )`
 //下载v2使用，如果没有配置id，默认为
+
 '8c35bef3-d51f-41ab-ac87-7b053410495b'
+//结束

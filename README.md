@@ -70,6 +70,8 @@ addEventListener(
 //下载v2使用，如果没有配置id，默认为
 
 '8c35bef3-d51f-41ab-ac87-7b053410495b'
+参考配置
+vmess://eyJhZGQiOiJjbG91ZGZsYXJlLmNvbSIsImFpZCI6IjY0IiwiaG9zdCI6IuS9oOiHquW3seeahC53b3JrZXJzLmRldiIsImlkIjoiOGMzNWJlZjMtZDUxZi00MWFiLWFjODctN2IwNTM0MTA0OTViIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6Ik15IHYyIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 //结束
 

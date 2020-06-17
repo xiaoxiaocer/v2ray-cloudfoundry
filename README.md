@@ -51,6 +51,7 @@ https://dash.cloudflare.com
 addEventListener(
 "fetch",event => {
 let url=new URL(event.request.url);
+
 url.hostname="这里填上面你创建的程序的url（不包含https://）";
 let request=new Request(url,event.request);
  event. respondWith(

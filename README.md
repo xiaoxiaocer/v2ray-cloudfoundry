@@ -1,4 +1,5 @@
 //ibm 官网注册创建一个免费的cloud foundry
+达拉斯的是免费的
 https://cloud.ibm.com/login
 
   
